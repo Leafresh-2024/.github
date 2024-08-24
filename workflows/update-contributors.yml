@@ -1,0 +1,38 @@
+name: Update Contributors
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # 매일 자정에 실행
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Fetch organization members
+        run: |
+          curl -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" https://api.github.com/orgs/Leafresh-2024/members > members.json
+          jq -r '.[] | "* [![\(.login)](https://github.com/\(.login).png?size=50)](https://github.com/\(.login))"' members.json > members_list.md
+
+      - name: Update README
+        run: |
+          # 기존의 컨트리뷰터 섹션을 제외한 나머지 내용은 유지
+          awk '/## 💬 Contributors/{flag=1;print;print " ";next} /## 🚀 Used By/{flag=0} !flag' README.md > README_NEW.md
+          echo "" >> README_NEW.md
+          echo "| $(paste -sd '|' members_list.md) |" >> README_NEW.md
+          echo "|:---:|:---:|" >> README_NEW.md
+          cat members_list.md >> README_NEW.md
+          awk 'flag; /## 🚀 Used By/{flag=1}' README.md >> README_NEW.md
+          mv README_NEW.md README.md
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md
+          git commit -m "Update contributors"
+          git push
