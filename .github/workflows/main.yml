@@ -21,18 +21,18 @@ jobs:
       - name: Update README
         run: |
           # 기존의 컨트리뷰터 섹션을 제외한 나머지 내용은 유지
-          awk '/## 💬 Contributors/{flag=1;print;print " ";next} /## 🚀 Used By/{flag=0} !flag' README.md > README_NEW.md
-          echo "" >> README_NEW.md
-          echo "| $(paste -sd '|' members_list.md) |" >> README_NEW.md
-          echo "|:---:|:---:|" >> README_NEW.md
-          cat members_list.md >> README_NEW.md
-          awk 'flag; /## 🚀 Used By/{flag=1}' README.md >> README_NEW.md
-          mv README_NEW.md README.md
+          awk '/## 💬 Contributors/{flag=1;print;print " ";next} /## 🚀 Used By/{flag=0} !flag' profile/README.md > profile/README_NEW.md
+          echo "" >> profile/README_NEW.md
+          echo "| $(paste -sd '|' members_list.md) |" >> profile/README_NEW.md
+          echo "|:---:|:---:|" >> profile/README_NEW.md
+          cat members_list.md >> profile/README_NEW.md
+          awk 'flag; /## 🚀 Used By/{flag=1}' profile/README.md >> profile/README_NEW.md
+          mv profile/README_NEW.md profile/README.md
 
       - name: Commit and push changes
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add README.md
+          git add profile/README.md
           git commit -m "Update contributors"
           git push
