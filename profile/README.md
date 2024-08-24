@@ -25,6 +25,29 @@
 
 ## 💬 Contributor
 
+<table>
+  <tr>
+    <th style="text-align: center;">프로필 사진</th>
+    <td style="text-align: center;"><img src="https://avatars.githubusercontent.com/ppudding3861" alt="GitHub 프로필 사진" style="width: 50px; height: 50px;"></td>
+    <td style="text-align: center;"><img src="https://avatars.githubusercontent.com/stjoo0925" alt="GitHub 프로필 사진" style="width: 50px; height: 50px;"></td>
+    <td style="text-align: center;"><img src="https://avatars.githubusercontent.com/dansun2" alt="GitHub 프로필 사진" style="width: 50px; height: 50px;"></td>
+    <td style="text-align: center;"><img src="https://avatars.githubusercontent.com/jinnyjinny12" alt="GitHub 프로필 사진" style="width: 50px; height: 50px;"></td>
+    <td style="text-align: center;"><img src="https://avatars.githubusercontent.com/hwangjeonghan" alt="GitHub 프로필 사진" style="width: 50px; height: 50px;"></td>
+    <td style="text-align: center;"><img src="https://avatars.githubusercontent.com/minju132" alt="GitHub 프로필 사진" style="width: 50px; height: 50px;"></td>
+  </tr>
+  <tr>
+   <tr>
+    <th style="text-align: center;">이름</th>
+    <td style="text-align: center;"><a href="https://github.com/ppudding3861" target="_blank">강형석</a></td>
+    <td style="text-align: center;"><a href="https://github.com/stjoo0925" target="_blank">주순태</a></td>
+    <td style="text-align: center;"><a href="https://github.com/dansun2" target="_blank">이서현</a></td>
+    <td style="text-align: center;"><a href="https://github.com/jinnyjinny12" target="_blank">서은진</a></td>
+    <td style="text-align: center;"><a href="https://github.com/hwangjeonghan" target="_blank">황정한</a></td>
+    <td style="text-align: center;"><a href="https://github.com/minju132" target="_blank">김민주</a></td>
+   </tr>
+  </tr>
+</table>
+
 ## 🚀 Used By
 
 ## 📜 License
