@@ -4,7 +4,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLeafresh-2024&count_bg=%23565AE5&title_bg=%23B3B3B3&icon=&icon_color=%23E7E7E7&title=Leafresh&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ![SpringBoot Badge](https://img.shields.io/badge/SpringBoot-v3.3.3-%236DB33F?style=flat&logo=spring-boot&logoColor=white)
-![Vue.js Badge](https://img.shields.io/badge/Vue.js-v3.3.2-4FC08D?style=flat&logo=vue.js&logoColor=white)
+![Vue.js Badge](https://img.shields.io/badge/Vue.js-v3.4.29-4FC08D?style=flat&logo=vue.js&logoColor=white)
 ![Flutter Badge](https://img.shields.io/badge/Flutter-v3.24-02569B?style=flat&logo=flutter&logoColor=white)
 
 ### ❗랜딩페이지 추가해야함❗
