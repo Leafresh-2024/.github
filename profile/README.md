@@ -5,7 +5,7 @@
 
 ![SpringBoot Badge](https://img.shields.io/badge/SpringBoot-v3.3.3-%236DB33F?style=flat&logo=spring-boot&logoColor=white)
 ![Vue.js Badge](https://img.shields.io/badge/Vue.js-v3.4.29-4FC08D?style=flat&logo=vue.js&logoColor=white)
-![Flutter Badge](https://img.shields.io/badge/Flutter-v3.24-02569B?style=flat&logo=flutter&logoColor=white)
+![Flutter Badge](https://img.shields.io/badge/Flutter-v3.24.1-02569B?style=flat&logo=flutter&logoColor=white)
 
 ### ❗랜딩페이지 추가해야함❗
 
