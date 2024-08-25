@@ -1,13 +1,10 @@
-# Leafresh
-> Your Gardening Journey
+![리프레시-로고](https://github.com/user-attachments/assets/198f9ba8-bc25-4ce2-884f-82ad7c42dd45)
+# Your Gardening Journey
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLeafresh-2024&count_bg=%23565AE5&title_bg=%23B3B3B3&icon=&icon_color=%23E7E7E7&title=Leafresh&edge_flat=false)](https://hits.seeyoufarm.com)
-
 ![SpringBoot Badge](https://img.shields.io/badge/SpringBoot-v3.3.3-%236DB33F?style=flat&logo=spring-boot&logoColor=white)
 ![Vue.js Badge](https://img.shields.io/badge/Vue.js-v3.4.29-4FC08D?style=flat&logo=vue.js&logoColor=white)
 ![Flutter Badge](https://img.shields.io/badge/Flutter-v3.24.1-02569B?style=flat&logo=flutter&logoColor=white)
-
-![리프레시-로고](https://github.com/user-attachments/assets/198f9ba8-bc25-4ce2-884f-82ad7c42dd45)
 
 ## 🌱 Why Leafresh?
 
