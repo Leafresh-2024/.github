@@ -10,7 +10,9 @@
 
 ## 🪴 Table of Contents
 
-[미로](https://miro.com/welcomeonboard/TnBCZllvYU52TXRBY1Y3Mm1ISUlXMmo2b0lYNWVkQVRxM1N5NlM2Ym9lU01KeVl4dXFXQjR3WWw4bG1uZnEydHwzNDU4NzY0NTkyOTkyNDczMDEyfDI=?share_link_id=458107216044)
+[![leaf-mirro](https://github.com/user-attachments/assets/b0900016-93a2-482d-bda4-3fd466aa290b)](https://miro.com/welcomeonboard/TnBCZllvYU52TXRBY1Y3Mm1ISUlXMmo2b0lYNWVkQVRxM1N5NlM2Ym9lU01KeVl4dXFXQjR3WWw4bG1uZnEydHwzNDU4NzY0NTkyOTkyNDczMDEyfDI=?share_link_id=458107216044)
+[![leaf-figma](https://github.com/user-attachments/assets/5be8fd04-1bca-4381-ae85-12511ba96b27)]()
+
 
 ## 🔧 Features
 
