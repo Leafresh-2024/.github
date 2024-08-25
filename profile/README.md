@@ -8,7 +8,21 @@
 
 ## 🌱 Why Leafresh?
 
-## 🪴 Table of Contents
+### 1. 체계적인 원예 관리
+   
+Leafresh는 당신의 원예 활동을 효과적으로 기록하고 관리할 수 있도록 도와줍니다. 식물의 성장 단계, 물주기, 비료 사용 등 모든 세부 사항을 체계적으로 기록할 수 있어, 더 나은 원예 결과를 얻을 수 있습니다. 식물별로 일지를 작성해 언제든지 참고할 수 있어, 보다 과학적이고 효율적인 원예 관리를 할 수 있습니다.
+
+### 2. 커뮤니티의 지식 공유
+   
+Leafresh의 커뮤니티는 전 세계의 원예 애호가들이 모여 서로의 경험과 지식을 공유하는 공간입니다. 초보자부터 전문가까지 다양한 사용자가 활발하게 활동하고 있으며, 문제 해결부터 새로운 아이디어까지 다양한 주제로 소통할 수 있습니다. 커뮤니티의 도움을 받아 식물의 문제를 해결하거나 새로운 원예 트렌드를 발견할 수 있습니다.
+
+### 3. 맞춤형 원예 조언 제공
+   
+Leafresh는 사용자의 식물 종류와 지역 기후에 따라 맞춤형 원예 조언을 제공합니다. 이를 통해 각 식물의 최적 성장 조건을 이해하고, 더 건강한 식물을 키울 수 있습니다. 또한, 특정 상황에 맞는 알림과 팁을 제공해 원예 초보자들도 쉽게 따라할 수 있습니다.
+
+ ### Leafresh는 단순한 원예 도구를 넘어, 당신의 원예 생활을 더 즐겁고 성공적으로 만들어 줄 완벽한 동반자입니다.
+
+## 🌿 Table of Contents
 
 [![leaf-mirro](https://github.com/user-attachments/assets/b0900016-93a2-482d-bda4-3fd466aa290b)](https://miro.com/welcomeonboard/TnBCZllvYU52TXRBY1Y3Mm1ISUlXMmo2b0lYNWVkQVRxM1N5NlM2Ym9lU01KeVl4dXFXQjR3WWw4bG1uZnEydHwzNDU4NzY0NTkyOTkyNDczMDEyfDI=?share_link_id=458107216044)
 [![leaf-figma](https://github.com/user-attachments/assets/5be8fd04-1bca-4381-ae85-12511ba96b27)]()
