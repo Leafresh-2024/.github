@@ -43,7 +43,6 @@ Leafresh는 사용자의 식물 종류와 지역 기후에 따라 맞춤형 원�
 
 <table>
   <tr>
-    <th style="text-align: center;">프로필 사진</th>
     <td style="text-align: center;"><img src="https://avatars.githubusercontent.com/ppudding3861" alt="GitHub 프로필 사진" style="width: 50px; height: 50px;"></td>
     <td style="text-align: center;"><img src="https://avatars.githubusercontent.com/stjoo0925" alt="GitHub 프로필 사진" style="width: 50px; height: 50px;"></td>
     <td style="text-align: center;"><img src="https://avatars.githubusercontent.com/dansun2" alt="GitHub 프로필 사진" style="width: 50px; height: 50px;"></td>
@@ -53,7 +52,6 @@ Leafresh는 사용자의 식물 종류와 지역 기후에 따라 맞춤형 원�
   </tr>
   <tr>
    <tr>
-    <th style="text-align: center;">이름</th>
     <td style="text-align: center;"><a href="https://github.com/ppudding3861" target="_blank">강형석</a></td>
     <td style="text-align: center;"><a href="https://github.com/stjoo0925" target="_blank">주순태</a></td>
     <td style="text-align: center;"><a href="https://github.com/dansun2" target="_blank">이서현</a></td>
