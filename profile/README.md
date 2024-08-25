@@ -26,13 +26,12 @@ Leafresh는 사용자의 식물 종류와 지역 기후에 따라 맞춤형 원�
 
 [![leaf-mirro](https://github.com/user-attachments/assets/b0900016-93a2-482d-bda4-3fd466aa290b)](https://miro.com/welcomeonboard/TnBCZllvYU52TXRBY1Y3Mm1ISUlXMmo2b0lYNWVkQVRxM1N5NlM2Ym9lU01KeVl4dXFXQjR3WWw4bG1uZnEydHwzNDU4NzY0NTkyOTkyNDczMDEyfDI=?share_link_id=458107216044)
 [![leaf-figma](https://github.com/user-attachments/assets/5be8fd04-1bca-4381-ae85-12511ba96b27)]()
-
+[![leaf-notion](https://github.com/user-attachments/assets/de531c9f-877d-477b-babf-3004ecee5a6d)]()
 
 ## 🔧 Features
 
 ## 🐾 Wiki
 
-[![leaf-notion](https://github.com/user-attachments/assets/de531c9f-877d-477b-babf-3004ecee5a6d)]()
 
 ## 🌏 Browser Support
 
