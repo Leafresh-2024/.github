@@ -24,9 +24,9 @@ Leafresh는 사용자의 식물 종류와 지역 기후에 따라 맞춤형 원�
 
 ## 🌿 Table of Contents
 
-[![leaf-mirro](https://github.com/user-attachments/assets/b0900016-93a2-482d-bda4-3fd466aa290b)](https://miro.com/welcomeonboard/TnBCZllvYU52TXRBY1Y3Mm1ISUlXMmo2b0lYNWVkQVRxM1N5NlM2Ym9lU01KeVl4dXFXQjR3WWw4bG1uZnEydHwzNDU4NzY0NTkyOTkyNDczMDEyfDI=?share_link_id=458107216044)
-[![leaf-figma](https://github.com/user-attachments/assets/5be8fd04-1bca-4381-ae85-12511ba96b27)]()
-[![leaf-notion](https://github.com/user-attachments/assets/de531c9f-877d-477b-babf-3004ecee5a6d)](https://www.notion.so/Leafresh-66e3bcc8e36e4be8bfd7e1bc087ff882)
+[![leaf-mirro](https://github.com/user-attachments/assets/eda4934e-195b-439b-9c0e-0a11cd2585d4)](https://miro.com/welcomeonboard/TnBCZllvYU52TXRBY1Y3Mm1ISUlXMmo2b0lYNWVkQVRxM1N5NlM2Ym9lU01KeVl4dXFXQjR3WWw4bG1uZnEydHwzNDU4NzY0NTkyOTkyNDczMDEyfDI=?share_link_id=458107216044)
+[![leaf-figma](https://github.com/user-attachments/assets/d90bec0d-46ed-4c60-a71e-f565376a8fc6)](https://www.figma.com/design/cshzRIFsmi68c5zaYjmAkV/Leafresh?node-id=0-1&t=24EeBDSnbUCdNna2-1)
+[![leaf-notion](https://github.com/user-attachments/assets/6502c2a5-1255-4880-b78f-f21c523a9c68)](https://www.notion.so/Leafresh-66e3bcc8e36e4be8bfd7e1bc087ff882)
 
 ## 🌿 Features
 
