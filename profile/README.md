@@ -67,6 +67,7 @@ Leafresh는 사용자의 식물 종류와 지역 기후에 따라 맞춤형 원�
 
 ## 🌿 Used By
 
-![Group 83](https://github.com/user-attachments/assets/8e860c4f-5b59-4672-8d3c-2a0108ed56c1)
+![Group 83](https://github.com/user-attachments/assets/33a7af6c-edde-45b4-b81d-44d041384da7)
+
 
 ## 🌿 License
