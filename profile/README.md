@@ -73,6 +73,3 @@ Leafresh는 실시간 채팅 기능을 통해 식물 애호가들이 직접 식�
 <a href="https://github.com/hwangjeonghan">
     <img src="https://github.com/user-attachments/assets/ca12b786-9841-4f38-8ffb-dd892dc78f42" alt="정한프로필" width="250">
 </a>
-
-
-## 🌿 License
