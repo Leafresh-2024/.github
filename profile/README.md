@@ -39,7 +39,7 @@ Leafresh는 실시간 채팅 기능을 통해 식물 애호가들이 직접 식�
 
 ## 🌿 Used By
 
-![tech stack](https://github.com/user-attachments/assets/bffdd695-7000-4c0a-8cf7-ef94ebe89320)
+![leafresh-stack](https://github.com/user-attachments/assets/227e6c9f-97db-4ea1-8491-47d52a167b03)
 
 ## 🌿 Features
 
