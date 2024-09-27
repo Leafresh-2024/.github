@@ -19,9 +19,9 @@ Leafresh는 당신의 원예 활동을 효과적으로 기록하고 관리할 �
    
 Leafresh의 커뮤니티는 전 세계의 원예 애호가들이 모여 서로의 경험과 지식을 공유하는 공간입니다. 초보자부터 전문가까지 다양한 사용자가 활발하게 활동하고 있으며, 문제 해결부터 새로운 아이디어까지 다양한 주제로 소통할 수 있습니다. 커뮤니티의 도움을 받아 식물의 문제를 해결하거나 새로운 원예 트렌드를 발견할 수 있습니다.
 
-### 3. 맞춤형 원예 조언 제공
+### 3. 실시간 채팅을 통한 식물분양
    
-Leafresh는 사용자의 식물 종류와 지역 기후에 따라 맞춤형 원예 조언을 제공합니다. 이를 통해 각 식물의 최적 성장 조건을 이해하고, 더 건강한 식물을 키울 수 있습니다. 또한, 특정 상황에 맞는 알림과 팁을 제공해 원예 초보자들도 쉽게 따라할 수 있습니다.
+Leafresh는 실시간 채팅 기능을 통해 식물 애호가들이 직접 식물을 분양하고 교환할 수 있는 플랫폼을 제공합니다. 사용자는 자신이 키우는 식물을 다른 사용자에게 분양하거나 새로운 식물을 얻을 수 있으며, 실시간으로 소통하면서 분양 조건과 정보를 공유할 수 있습니다. 이를 통해 더욱 쉽게 다양한 식물을 접하고, 원예 생활을 확장할 수 있습니다.
 
  ### Leafresh는 단순한 원예 도구를 넘어, 당신의 원예 생활을 더 즐겁고 성공적으로 만들어 줄 완벽한 동반자입니다.
 
@@ -31,10 +31,15 @@ Leafresh는 사용자의 식물 종류와 지역 기후에 따라 맞춤형 원�
 [![leaf-figma](https://github.com/user-attachments/assets/d90bec0d-46ed-4c60-a71e-f565376a8fc6)](https://www.figma.com/design/cshzRIFsmi68c5zaYjmAkV/Leafresh?node-id=0-1&t=24EeBDSnbUCdNna2-1)
 [![leaf-notion](https://github.com/user-attachments/assets/6502c2a5-1255-4880-b78f-f21c523a9c68)](https://www.notion.so/Leafresh-66e3bcc8e36e4be8bfd7e1bc087ff882)
 
+## 🌿 Architecture
+
+![flux-architecture](https://github.com/user-attachments/assets/1a843a23-ddbc-4abb-b470-6dfea49dfa18)
+
+## 🌿 Used By
+
+![tech stack](https://github.com/user-attachments/assets/bffdd695-7000-4c0a-8cf7-ef94ebe89320)
+
 ## 🌿 Features
-
-## 🌿 Wiki
-
 
 ## 🌿 Browser Support
 
@@ -51,7 +56,6 @@ Leafresh는 사용자의 식물 종류와 지역 기후에 따라 맞춤형 원�
     <td style="text-align: center;"><img src="https://avatars.githubusercontent.com/dansun2" alt="GitHub 프로필 사진" style="width: 50px; height: 50px;"></td>
     <td style="text-align: center;"><img src="https://avatars.githubusercontent.com/jinnyjinny12" alt="GitHub 프로필 사진" style="width: 50px; height: 50px;"></td>
     <td style="text-align: center;"><img src="https://avatars.githubusercontent.com/hwangjeonghan" alt="GitHub 프로필 사진" style="width: 50px; height: 50px;"></td>
-    <td style="text-align: center;"><img src="https://avatars.githubusercontent.com/minju132" alt="GitHub 프로필 사진" style="width: 50px; height: 50px;"></td>
   </tr>
   <tr>
    <tr>
@@ -60,14 +64,8 @@ Leafresh는 사용자의 식물 종류와 지역 기후에 따라 맞춤형 원�
     <td style="text-align: center;"><a href="https://github.com/dansun2" target="_blank">이서현</a></td>
     <td style="text-align: center;"><a href="https://github.com/jinnyjinny12" target="_blank">서은진</a></td>
     <td style="text-align: center;"><a href="https://github.com/hwangjeonghan" target="_blank">황정한</a></td>
-    <td style="text-align: center;"><a href="https://github.com/minju132" target="_blank">김민주</a></td>
    </tr>
   </tr>
 </table>
-
-## 🌿 Used By
-
-![Group 83](https://github.com/user-attachments/assets/33a7af6c-edde-45b4-b81d-44d041384da7)
-
 
 ## 🌿 License
