@@ -54,23 +54,25 @@ Leafresh는 실시간 채팅 기능을 통해 식물 애호가들이 직접 식�
 
 ## 🌿 Contributor
 
-<table>
-  <tr>
-    <td style="text-align: center;"><img src="https://avatars.githubusercontent.com/ppudding3861" alt="GitHub 프로필 사진" style="width: 50px; height: 50px;"></td>
-    <td style="text-align: center;"><img src="https://avatars.githubusercontent.com/stjoo0925" alt="GitHub 프로필 사진" style="width: 50px; height: 50px;"></td>
-    <td style="text-align: center;"><img src="https://avatars.githubusercontent.com/dansun2" alt="GitHub 프로필 사진" style="width: 50px; height: 50px;"></td>
-    <td style="text-align: center;"><img src="https://avatars.githubusercontent.com/jinnyjinny12" alt="GitHub 프로필 사진" style="width: 50px; height: 50px;"></td>
-    <td style="text-align: center;"><img src="https://avatars.githubusercontent.com/hwangjeonghan" alt="GitHub 프로필 사진" style="width: 50px; height: 50px;"></td>
-  </tr>
-  <tr>
-   <tr>
-    <td style="text-align: center;"><a href="https://github.com/ppudding3861" target="_blank">강형석</a></td>
-    <td style="text-align: center;"><a href="https://github.com/stjoo0925" target="_blank">주순태</a></td>
-    <td style="text-align: center;"><a href="https://github.com/dansun2" target="_blank">이서현</a></td>
-    <td style="text-align: center;"><a href="https://github.com/jinnyjinny12" target="_blank">서은진</a></td>
-    <td style="text-align: center;"><a href="https://github.com/hwangjeonghan" target="_blank">황정한</a></td>
-   </tr>
-  </tr>
-</table>
+<a href="https://github.com/ppudding3861">
+    <img src="https://github.com/user-attachments/assets/98f92edb-156b-4c99-a8bc-018fd134c0ac" alt="형석프로필" width="250">
+</a>
+
+<a href="https://github.com/stjoo0925">
+    <img src="https://github.com/user-attachments/assets/d2ef55c0-4041-4aa7-aaee-90f0b9a415a4" alt="순태프로필" width="250">
+</a>
+
+<a href="https://github.com/dansun2">
+    <img src="https://github.com/user-attachments/assets/4edd8ed5-bba6-4f25-9fd0-6a7a648bb982" alt="서현프로필" width="250">
+</a>
+
+<a href="https://github.com/jinnyjinny12">
+    <img src="https://github.com/user-attachments/assets/ba144ccf-ff4b-4b11-bd56-a55f0ee5e188" alt="은진프로필" width="250">
+</a>
+
+<a href="https://github.com/hwangjeonghan">
+    <img src="https://github.com/user-attachments/assets/ca12b786-9841-4f38-8ffb-dd892dc78f42" alt="정한프로필" width="250">
+</a>
+
 
 ## 🌿 License
