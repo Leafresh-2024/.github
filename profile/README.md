@@ -6,7 +6,7 @@
 ![Flutter Badge](https://img.shields.io/badge/Flutter-v3.24.1-02569B?style=flat&logo=flutter&logoColor=white)
 
 
-## 배포버전
+## DEMO
 
 [![vercel](https://github.com/user-attachments/assets/59c44302-9880-4714-9a11-36cf574b963b)](https://leafresh-frontend-nine.vercel.app/)
 
