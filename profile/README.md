@@ -39,11 +39,13 @@ Leafresh는 실시간 채팅 기능을 통해 식물 애호가들이 직접 식�
 
 ## 🌿 Architecture
 
-![flux-architecture1](https://github.com/user-attachments/assets/ce7a7682-4aa7-43da-a24d-9d7d6c032d22)
+![flux-architecture](https://github.com/user-attachments/assets/50a132dc-c99d-41b9-b18c-d2f33b2a29a8)
+
 
 ## 🌿 Used By
 
-![TECH STACK1](https://github.com/user-attachments/assets/d56af294-f935-4d8e-86a2-86fa3d384d6b)
+![TECH STACK](https://github.com/user-attachments/assets/9f21844d-7c2d-4368-b224-ab254a601be4)
+
 
 ## 🌿 Features
 
