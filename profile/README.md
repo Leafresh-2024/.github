@@ -8,8 +8,10 @@
 ![Flutter Badge](https://img.shields.io/badge/Flutter-v3.24.1-02569B?style=flat&logo=flutter&logoColor=white)
 
 
-## DEMO
-[![vercel](https://github.com/user-attachments/assets/5a666049-810c-4562-860b-8cbc07130a47)](https://leafresh-frontend-nine.vercel.app/)
+## DEMO - QR or Click!
+<a href="https://leafresh-frontend-nine.vercel.app/" target="_blank">
+    <img width="200" alt="스크린샷" src="https://github.com/user-attachments/assets/5a666049-810c-4562-860b-8cbc07130a47">
+</a>
 
 ## 🌿 Why Leafresh?
 
