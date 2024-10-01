@@ -9,8 +9,7 @@
 
 
 ## DEMO
-
-[![vercel](https://github.com/user-attachments/assets/59c44302-9880-4714-9a11-36cf574b963b)](https://leafresh-frontend-nine.vercel.app/)
+[![vercel](https://github.com/user-attachments/assets/5a666049-810c-4562-860b-8cbc07130a47)](https://leafresh-frontend-nine.vercel.app/)
 
 ## 🌿 Why Leafresh?
 
